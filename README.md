@@ -12,6 +12,8 @@ Sensitive content includes:
 
 Your detector must distinguish real sensitive content from benign text that merely _discusses_ these topics (e.g., "the password policy requires 8 characters" is **not** sensitive).
 
+> Note your final solution will get tested on a Raspberry Pi so don't give me a solution like fine-tuned 8B LLM come on. 
+
 ## What You Get
 
 - A cloud VM with GPU (NVIDIA 24GB RAM or equivalent)
